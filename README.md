@@ -37,6 +37,7 @@ Group members:	Nguyễn Như Duy Phương-16020267, Phan Tuấn Thành
 * “right arrow” - Turn 90 degrees to right.
 * “up arrow” - Turn 30 degrees up.
 * “down arrow” - Turn 30 degrees down.
+* "f" - Export and detect image.
 ## Example
 Input:
 
