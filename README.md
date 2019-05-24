@@ -1,5 +1,5 @@
 UET-AI-Robot INT3409-21
-##Chalenge 1
+## Chalenge 1
 
 Group members:	Nguyễn Như Duy Phương-16020267, Phan Tuấn Thành 
 
@@ -11,8 +11,22 @@ Group members:	Nguyễn Như Duy Phương-16020267, Phan Tuấn Thành
 * Linux users: X server with GLX module enabled
 * CUDA
 
-## Run
-`sudo python assignment.py`
+## Installation and Getting Started
+* Installing AI2-THOR using pip:
+
+`$ pip install ai2thor`
+
+* Git clone the repository:
+
+`$ git clone https://github.com/TowTow0059/robot.git`
+
+`$ cd yolo-coco`
+
+`$ wget https://pjreddie.com/media/files/yolov3.weights`
+
+* Run:
+
+`$ sudo python assignment.py`
 
 ## Actions
 * “w” - Move forward.
@@ -24,4 +38,10 @@ Group members:	Nguyễn Như Duy Phương-16020267, Phan Tuấn Thành
 * “up arrow” - Turn 30 degrees up.
 * “down arrow” - Turn 30 degrees down.
 ## Example
-Demo: img/detected_image.jpg
+Input:
+
+![input](/img/image.jpg)
+
+Output:
+
+![output](/img/detected_image.jpg)
